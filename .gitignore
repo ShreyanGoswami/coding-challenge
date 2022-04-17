@@ -1,6 +1,7 @@
 .vs
 obj
 bin
+.DS_Store
 .gradle/
 .project
 .settings/
