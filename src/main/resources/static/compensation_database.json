@@ -1,0 +1,16 @@
+[
+  {
+    "employee": {
+      "employeeId": "16a596ae-edd3-4847-99fe-c4518e82c86f"
+    },
+    "salary": 130000,
+    "effectiveDate": "04-22-2022"
+  },
+  {
+    "employee": {
+      "employeeId": "4790683e-6856-4548-ab4d-429bc22eddec"
+    },
+    "salary": 140000,
+    "effectiveDate": ""
+  }
+]
